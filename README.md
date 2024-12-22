@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CReny63
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on furture projects
+- 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me email: crreny@gmail.com
 
 <!---
