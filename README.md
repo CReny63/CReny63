@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CReny63
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently programming a flutter mobile-application
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me email: crreny@gmail.com
 
