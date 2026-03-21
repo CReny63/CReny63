@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CReny63
 - 📫 How to reach me email: crreny@gmail.com
 
-- Built: https://github.com/CReny63/BOPO
+- Built: https://apps.apple.com/us/app/bopo-boba/id6748178556 for boba shops.
 - Building Memry.ai AI-powered live selling tool: https://www.memryai.com
 
 <!---
